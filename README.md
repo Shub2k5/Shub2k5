@@ -53,7 +53,7 @@ Hi, I'm **Shubham**, a **Computer Science student** currently in **1st Year** an
 - **Twitter**: [Shubham Mishra](https://x.com/Shubham27224674)  
 - **YouTube**: [@shub25](https://www.youtube.com/@shub25)
 - **Email**: [Email](manshu2k5@gmail.com)
-- **Linktree**: [Your Linktree](https://linktr.ee/your-linktree-handle)  
+- **Linktree**: [Shub2k5](https://linktr.ee/Shub2k5)  
 
 ---
 
