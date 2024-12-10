@@ -11,6 +11,7 @@ Hi, I'm **Shubham**, a **Computer Science student** currently in **1st Year** an
 - **Web Development**: HTML, CSS, Javascript
 - **Leadership**: Team leader in hackathons and group projects  
 - **Cultural Enthusiast**: Passionate about preserving and showcasing Indian heritage  
+- **Astroscience**: Fascinated by the mysteries of the universe and space exploration
 
 ---
 
