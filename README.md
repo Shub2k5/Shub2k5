@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm **Shubham**, a **Computer Science student** currently in **1st Year** and a budding **web developer** with a passion for **technology**, **Indian culture** and **Astroscience**. I enjoy exploring the intersection of creativity and technology through my projects. When I’m not coding, you can find me playing **volleyball** or **badminton**.
+Hi, I'm **Shubham**, a **Computer Science student** currently in **1st Year** and a budding **web developer** with a passion for **technology**, **Indian culture** and **Astroscience**. I enjoy exploring the intersection of creativity and technology through my projects.
 
 ---
 
