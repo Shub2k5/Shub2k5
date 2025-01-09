@@ -51,7 +51,7 @@ I'm **Shubham** a **Computer Science student** currently in **1st Year** and a b
 - *Instagram*: [@_shub2k5](https://www.instagram.com/_shub2k5/)  
 - *Twitter*: [Shubham Mishra](https://x.com/Shubham27224674)  
 - *Email*: [Email](manshu2k5@gmail.com)
-- *Linktree*: [Shub2k5](https://linktr.ee/Shub2k5)  
+- *Links*: [Shubham](https://beacons.ai/shub2k5)
 
 ---
 
