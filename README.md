@@ -6,25 +6,25 @@ I'm **Shubham** a **Computer Science student** currently in **1st Year** and a b
 
 ### 🌟 Skills & Interests
 
-- *Web Development*: HTML, CSS, Javascript
-- *Leadership*: Team leader in hackathons and group projects  
-- *Cultural Enthusiast*: Passionate about preserving and showcasing Indian heritage  
-- *Astroscience*: Fascinated by the mysteries of the universe and space exploration
+- **Web Development**: HTML, CSS, Javascript
+- **Leadership**: Team leader in hackathons and group projects  
+- **Cultural Enthusiast**: Passionate about preserving and showcasing Indian heritage  
+- **Astroscience**: Fascinated by the mysteries of the universe and space exploration
 
 ---
 
 ### 🚀 1st Year Projects
 
-- *[Canvas Chronicles](https://github.com/Shub2k5/Canvas-Chronicles)*  
+- **[Canvas Chronicles](https://github.com/Shub2k5/Canvas-Chronicles)**  
   A sleek art gallery website designed to showcase creative works.  
 
-- *[Heritage India](https://github.com/Shub2k5/Heritage-India)*  
+- **[Heritage India](https://github.com/Shub2k5/Heritage-India)**  
   A website highlighting India's rich cultural heritage using modern web technologies.  
 
-- *[WeatherWise](https://github.com/Shub2k5/WeatherWise)*  
+- **[WeatherWise](https://github.com/Shub2k5/WeatherWise)**  
   A dynamic weather app project that displays live weather updates.
   
-- *[Calcumate](https://github.com/Shub2k5/Simple-Calculator-Project-)*
+- **[Calcumate](https://github.com/Shub2k5/Simple-Calculator-Project-)**
   A simple calculator that performs all the basic arithmetic operations.
   
 ---
