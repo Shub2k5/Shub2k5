@@ -13,7 +13,7 @@ I'm **Shubham** a **Computer Science student** currently in **1st Year** and a b
 
 ---
 
-### 🚀 1st Year Projects
+### 🚀 1st Sem Projects
 
 - **[Canvas Chronicles](https://github.com/Shub2k5/Canvas-Chronicles)**  
   A sleek art gallery website designed to showcase creative works.  
@@ -31,8 +31,9 @@ I'm **Shubham** a **Computer Science student** currently in **1st Year** and a b
 
 ### 📘 Currently Learning
 
-- Advanced **CSS Techniques** for responsive design  
-- **JavaScript** to add interactivity to my web projects  
+- Advanced **CSS Techniques** for responsive design and **Bootstrap** framework.
+- **JavaScript** to add interactivity to my web projects
+- **React JS** to make dynamic projects.  
 - Exploring the different fields in **Computer Science finding where does my interest lie**  
 
 ---
